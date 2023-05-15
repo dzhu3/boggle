@@ -30,4 +30,4 @@ Scoring system based on word length and rarity
 If you are interested in contributing to the Boggle game project, please fork the repository and submit a pull request with your changes. We welcome bug fixes, feature enhancements, and other contributions to the project.
 
 #### Credits
-The Boggle game project was created by Daniel Zhu as a project for DSC 302 at University of Texas at Austin.
+The Boggle game project was created by Daniel Zhu as a project for DSC 302, Data Structures and Algorithms at University of Texas at Austin.
